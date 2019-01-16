@@ -12,6 +12,7 @@ My personal awesome-elm links
 * Elm Slack https://elmlang.slack.com
 * Discourse https://discourse.elm-lang.org
 * Awesome Elm https://github.com/isRuslan/awesome-elm
+* How we talk about other languages https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972
 ## Best practices
 * Make impossible states impossible https://www.youtube.com/watch?v=IcgmSRJHu_8
 * Scale Elm apps https://www.youtube.com/watch?v=DoA4Txr4GUs
