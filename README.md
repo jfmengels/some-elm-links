@@ -27,6 +27,12 @@ My personal awesome-elm links
 * elm-analyse https://github.com/stil4m/elm-analyse
 * elm-live https://github.com/wking-io/elm-live
 * create-elm-app https://github.com/halfzebra/create-elm-app
+## Atom packages
+* language-elm https://atom.io/packages/language-elm
+* elm-format https://github.com/humio/atom-elm-format
+* elmjutsu https://atom.io/packages/elmjutsu
+* elm-lens https://atom.io/packages/elm-lens
+* elm-navigator https://atom.io/packages/elm-navigator
 ## UI libraries
 * elm-css https://package.elm-lang.org/packages/rtfeldman/elm-css/latest
 * elm-ui https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest
