@@ -4,7 +4,7 @@ My personal awesome-elm links
 
 ## Beginners
 
-* guide.elm-lang.org
+* [Official guide](https://guide.elm-lang.org)
 * Elm in action https://livebook.manning.com/#!/book/elm-in-action/
 * JSON decoders https://github.com/zwilias/elm-demystify-decoders/
 ## Community / requesting help
